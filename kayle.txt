@@ -1,1 +1,4 @@
-contenido
+q - baja armadura
+w - escudo
+e - rango
+r - inmortal y daño

@@ -1,1 +1,4 @@
-contenido de archivo
+q - stun
+w - charquito
+e - escudo
+r - cadenas en area
